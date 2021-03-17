@@ -2,6 +2,8 @@
 
 Created with CodeSandbox
 
+#Link to access GUI only of the exercises: https://39d8k.csb.app/
+
 - ex: a simple counter, character counter (Twitter), password match, alphanumeric password, disable submit, show password :
 
   https://codesandbox.io/s/github/Shshankm597/react-practice-exercises-w1?file=/src/component/switch/PasswordEx.jsx
