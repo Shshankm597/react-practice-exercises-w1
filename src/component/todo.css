@@ -1,0 +1,14 @@
+.todo-view {
+  width: fit-content;
+  margin: auto;
+}
+
+.todo-header {
+  margin-left: 13%;
+}
+
+.todo-input {
+  padding: 0.5rem;
+  margin: 0 1rem;
+  width: 60%;
+}

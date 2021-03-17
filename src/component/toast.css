@@ -1,0 +1,32 @@
+.toast-view {
+  width: fit-content;
+  margin: auto;
+}
+
+.toastBox {
+  position: fixed;
+  top: 20%;
+  right: 1%;
+  width: 25%;
+  border: 1px solid inherit;
+  color: white;
+  padding: 0.2em 1rem;
+  transition: all 0.3s ease;
+}
+
+hr {
+  /* width: 100%; */
+  margin: 1rem;
+}
+
+/* .toastBox:nth-child(1) {
+  background-color: rgba(76, 175, 80, 0.6);
+}
+
+.toastBox:nth-child(2) {
+  background-color: rgba(255, 165, 0, 0.6);
+}
+
+.toastBox:nth-child(3) {
+  background-color: rgba(255, 0, 0, 0.6);
+} */
